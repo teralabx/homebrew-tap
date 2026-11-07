@@ -9,12 +9,12 @@ class Logbear < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/teralabx/logbear/releases/download/v0.1.0/logbear-0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "ae2754da3c0f0a523367579f620f01ef8750a62a50f1735d15e7bcffebcc374e"
+      url "https://github.com/teralabx/logbear/releases/download/v0.1.1/logbear-0.1.1-aarch64-apple-darwin.tar.gz"
+      sha256 "688925edde3d5847608f00b7f3eb5ab998b1a5e20c13675c3ba18f6e64e490da"
     end
     on_intel do
-      url "https://github.com/teralabx/logbear/releases/download/v0.1.0/logbear-0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "e9f03c030564beadb9cee137382b12120af02be0be5d9fcf35ed74c351c30d09"
+      url "https://github.com/teralabx/logbear/releases/download/v0.1.1/logbear-0.1.1-x86_64-apple-darwin.tar.gz"
+      sha256 "fbcb1daca10e8101da180e60f413fa8ead9d9aa349e55a8be19e4dca7bd914db"
     end
   end
 
